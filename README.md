@@ -1,5 +1,6 @@
 The usage of QFileDialog is explained. There is a button, and when pressed, a file selection menu appears. If a file is selected, its location is displayed on a label; if no file is selected, a QMessageBox opens and shows a critical warning.
-
+![Image 1](./images/image1.png)
+![Image 2](./images/image2.png)
 License
 
 Copyright (C) 2025 Emrullah Enis Çetinkaya and contributors
